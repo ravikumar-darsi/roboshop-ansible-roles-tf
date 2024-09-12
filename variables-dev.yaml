@@ -2,9 +2,9 @@ MONGODB_HOST: mongodb-dev.daws67s.online # submit your host
 REDIS_HOST: redis-dev.daws67s.online
 MYSQL_HOST: mysql-dev.daws67s.online
 RABBITMQ_HOST: rabbitmq-dev.daws67s.online
-CATALOGUE_HOST: catalogue-dev.daws67s.online
-USER_HOST: user-dev.daws67s.online
-CART_HOST: cart-dev.daws67s.online
-SHIPPING_HOST: shipping-dev.daws67s.online
-PAYMENT_HOST: payment-dev.daws67s.online
-DISPATCH_HOST: dispatch-dev.daws67s.online
+CATALOGUE_HOST: catalogue.app-dev.daws67s.online
+USER_HOST: user.app-dev.daws67s.online
+CART_HOST: cart.app-dev.daws67s.online
+SHIPPING_HOST: shipping.app-dev.daws67s.online
+PAYMENT_HOST: payment.app-dev.daws67s.online
+DISPATCH_HOST: dispatch.app-dev.daws67s.online
